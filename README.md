@@ -1,6 +1,4 @@
-# Hello World!!
-## Life is Good!
-### This is my first Git Scripting
-* Namaste
-* Hola
-* Bonjour
+## Data Science Specialization
+* Uses R
+* Nine courses
+* Goes from raw data to data products
